@@ -5,8 +5,8 @@ Ingeniero en Telemárica, músico y compositor salvadoreño.
 
 Contenido
 ---------
-* [Acerca de mí](#Acerca-de-mí)
-* [Repositorios en GitHub](#Repositorios-en-GitHub)
+* [Acerca de mí](#acerca-de-mí)
+* [Repositorios en GitHub](#repositorios-en-github)
 
 Acerca de mí
 ------------
